@@ -23,8 +23,6 @@ evidence-based agricultural policy.
 ## 🛠️ Skills
 
 - Excel
-- Econometrics
-- Statistical Analysis
 - Data Visualization
 - Research Methodology
 
